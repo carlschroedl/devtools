@@ -1,0 +1,4 @@
+#!/bin/bash
+#restart samba
+sudo restart smbd
+sudo restart nmbd
